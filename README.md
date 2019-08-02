@@ -1,2 +1,3 @@
-# awesomesaucelabs.github.io
-awesomesauce landing page
+# Awesomesauce Labs
+
+[VRKB Manual](https://awesomesaucelabs.github.io/vrkb-manual)
