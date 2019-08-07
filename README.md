@@ -1,8 +1,12 @@
 ![Awesomesauce Labs](images/awesomesauce-logo.png)
 
+## About Awesomesauce
+
 Thanks for visiting! I'm an indie programmer that develops 3D/VR applications with [Unity](https://unity.com/).  You can contact me at [awesomesaucelabs@gmail.com](mailto:awesomesaucelabs@gmail.com).
 
-My first product is VRKB (**V**irtual **R**eality **K**ey**B**oard), a Unity asset that enables easily typing text in VR applications:
+## VRKB: Virtual Reality Keyboard
+
+My first product is VRKB, a Unity asset that facilitates text entry in VR applications:
 
 ![VRKB animated GIF](images/vrkb.gif)
 
