@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+table.projects td {
+	// make table cell borders invisible
+	border: 1px solid #00000000;
+	// align text to top of table cells
+	vertical-align: top;
+}

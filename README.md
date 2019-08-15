@@ -1,18 +1,39 @@
-![Awesomesauce Labs](images/awesomesauce-logo.png)
+![Awesomesauce Labs](assets/images/awesomesauce-logo.png)
 
-## About Awesomesauce
+# Hello!
 
-Thanks for visiting! I'm an indie programmer that develops 3D/VR applications with [Unity](https://unity.com/).  You can contact me at [awesomesaucelabs@gmail.com](mailto:awesomesaucelabs@gmail.com).
+Thanks for visiting! I'm an indie programmer that recently struck out on his own to develop 3D/VR applications with [Unity](https://unity.com/).  You can contact me at [awesomesaucelabs@gmail.com](mailto:awesomesaucelabs@gmail.com).
+
+# Projects
 
 ## VRKB: Virtual Reality Keyboard
 
-My first product is VRKB, a Unity asset that facilitates text entry in VR applications:
+<a href="assets/images/vrkb-screenshot.png"><image src="assets/images/vrkb-key-image-large.png" height="220" /></a>
 
-![VRKB animated GIF](images/vrkb.gif)
+[animated GIF (1.4 MB)](assets/images/vrkb.gif)
 
-VRKB manual: <https://awesomesaucelabs.github.io/vrkb-manual>
-<br>
-VRKB bug tracker: <https://github.com/AwesomesauceLabs/vrkb-manual/issues>
-<br>
-VRKB setup video: <https://www.youtube.com/watch?v=J1dHujWH23s> 
+VRKB is a virtual keyboard that enables comfortable and efficient text entry in VR. The keys are struck with virtual mallets, providing an experience similar to playing a xylophone or a drum kit. For PCVR, this typing method is both faster and more intuitive than the laser-pointer-style keyboards currently in popular use.
 
+VRKB has been submitted to the Unity Asset Store in Aug 2019 and is currently under review.
+
+[VRKB Manual](https://awesomesaucelabs.github.io/vrkb-manual) |
+[VRKB Bug Tracker](https://github.com/AwesomesauceLabs/vrkb-manual/issues) |
+[VRKB Setup Video](https://www.youtube.com/watch?v=J1dHujWH23s)
+
+## Prospector: 3D Model Viewer for VR
+
+<a href="assets/images/prospector-screenshot.png"><image src="assets/images/prospector-key-image-large.png" height="220" /></a>
+
+[animated GIF (2.9 MB)](assets/images/prospector.gif)
+
+Prospector allows the user to browse the massive collection of 3D models at [sketchfab.com](https://sketchfab.com) from within VR.
+
+Prospector is currently under development.
+
+## Voxelbrush: VR Sculpting Tool
+
+<a href="assets/images/voxelbrush-screenshot-2.png"><image src="assets/images/voxelbrush-key-image-large-2.png" height="220" /></a>
+
+Voxelbrush is a sculpting tool for creating 3D art in VR.
+
+I decided to put Voxelbrush development on hold in Mar 2019. There was way too much competition in this area (VR art apps), and I felt the project was too ambitious for a one-man project.
