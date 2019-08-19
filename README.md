@@ -4,7 +4,7 @@
 
 Awesomesauce is a one-man army that develops 3D/VR libraries and applications using the [Unity game engine](https://unity.com/).
 
-You can contact me at [awesomesaucelabs@gmail.com](mailto:awesomesaucelabs@gmail.com).
+You can send me a message on the [Contact Page](contact.html).
 
 # Projects
 

@@ -26,3 +26,10 @@ table.projects td {
 	// align text to top of table cells
 	vertical-align: top;
 }
+
+input[type=email], input[type=text], textarea {
+	width: 50%;
+	padding: 8px;
+	margin-top: 6px;
+	margin-bottom: 12px;
+}
