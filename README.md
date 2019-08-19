@@ -1,6 +1,6 @@
-<a href="assets/images/awesomesauce-logo.png"><image src="assets/images/awesomesauce-logo.png" id="logo"/></a>
+<image src="assets/images/awesomesauce-logo.png" id="logo" />
 
-# Hello!
+# About
 
 Awesomesauce is a one-man army that develops 3D/VR libraries and applications using the [Unity game engine](https://unity.com/).
 
@@ -30,7 +30,7 @@ VRKB has been submitted to the Unity Asset Store in Aug 2019 and is currently un
 
 Prospector allows the user to browse the massive collection of 3D models at [sketchfab.com](https://sketchfab.com) from within VR.
 
-Prospector is currently under development.
+Prospector is currently under development, as of Aug 2019.
 
 ## Voxelbrush: VR Sculpting Tool
 
@@ -38,4 +38,4 @@ Prospector is currently under development.
 
 Voxelbrush is a sculpting tool for creating 3D art in VR.
 
-I decided to put Voxelbrush development on hold in Mar 2019. There was way too much competition in this area (VR art apps), and I felt the project was too ambitious for a one-man team.
+I decided to put Voxelbrush development on hold in Mar 2019. There was too much competition in this area (VR art apps), and I felt the project was too ambitious for a one-man team.
