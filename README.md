@@ -2,7 +2,7 @@
 
 # About
 
-Awesomesauce is a one-man army that develops 3D/VR libraries and applications using the [Unity game engine](https://unity.com/).
+Hello! My name is Ben and I'm the one-man army behind Awesomesauce Labs. I'm an experienced programmer with formal training in Computer Science, and in my previous life I was developing scientific software for nearly a decade. I started Awesomesauce in January 2019 because I was inspired by the potential of VR headsets (e.g. HTC Vive) to enable new approaches to 3D gaming, art, and design. With Awesomesauce, my goal is to build tools that amplify the creative power of individuals, that is to say, indie artists and programmers like myself.
 
 You can send me a message on the [Contact Page](contact.html).
 
