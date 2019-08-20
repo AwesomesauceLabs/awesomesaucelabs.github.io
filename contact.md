@@ -1,4 +1,4 @@
-<image src="assets/images/awesomesauce-logo.png" id="logo" />
+<a href="/index.html"><image src="assets/images/awesomesauce-logo.png" id="logo" /></a>
 
 # Contact
 
