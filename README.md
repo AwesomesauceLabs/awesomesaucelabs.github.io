@@ -39,3 +39,5 @@ Prospector is currently under development, as of Aug 2019.
 Voxelbrush is a sculpting tool for creating 3D art in VR.
 
 I decided to put Voxelbrush development on hold in Mar 2019. There was too much competition in this area (VR art apps), and I felt the project was too ambitious for a one-man team.
+
+[Voxelbrush Demo Video](https://www.youtube.com/watch?v=Q6wHnBV0TGs)
