@@ -4,7 +4,7 @@
 
 Please send your message using the form below. If you prefer, you can also e-mail me directly at `awesomesaucelabs` (at gmail).
 
-<form action="https://formspree.io/awesomesaucelabs@gmail.com" method="POST">
+<form action="https://formspree.io/f/xqkglkkn" method="POST">
   <label for="replyto">Reply To</label>
   <br>
   <input type="email" name="replyto" placeholder="Your e-mail address...">
