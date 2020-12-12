@@ -16,8 +16,7 @@ You can send me a message on my [Contact Page](contact.html) or email me at `awe
 
 Piglet is a Unity asset that imports 3D models from glTF files, both in the Editor and at runtime. This gives Unity developers access to a large collection of free textures, materials, and models from sites like [Sketchfab](https://sketchfab.com) and [Google Poly](https://poly.google.com/).
 
-Piglet has been submitted to the Unity Asset Store in June 2020 and is currently under review.
-
+[Piglet Store Page](https://assetstore.unity.com/packages/slug/173425) |
 [Piglet Web Demo](https://awesomesaucelabs.github.io/piglet-webgl-demo) |
 [Piglet Manual](https://awesomesaucelabs.github.io/piglet-manual) |
 [Piglet Editor Import Video](https://youtu.be/wf26w0gcVcA) |
