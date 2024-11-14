@@ -2,20 +2,6 @@
 
 # Contact
 
-Please send your message using the form below. If you prefer, you can also e-mail me directly at `awesomesaucelabs` (at gmail).
+If you have a question about [Piglet](https://assetstore.unity.com/packages/tools/utilities/piglet-gltf-importer-173425), you might find an answer on the [Piglet issue tracker](https://github.com/AwesomesauceLabs/piglet/issues). Anyone can post a new issue on the issue tracker, but please note that I give priority to [Paid Support](https://github.com/AwesomesauceLabs/piglet?tab=readme-ov-file#paid-support) users, and **I provide no guarantees about responding non-paid support requests**.
 
-<form action="https://formspree.io/f/xqkglkkn" method="POST">
-  <label for="replyto">Reply To</label>
-  <br>
-  <input type="email" name="replyto" placeholder="Your e-mail address...">
-  <br>
-  <label for="subject">Subject</label>
-  <br>
-  <input type="text" name="subject" placeholder="Subject line...">
-  <br>
-  <label for="message">Message</label>
-  <br>
-  <textarea name="message" rows="10" cols="50" placeholder="Your message..."></textarea>
-  <br>
-  <input type="submit" value="Submit">
-</form> 
+**Note**: If you bought Piglet on the Asset Store before it was free, you can get a [Paid Support credit](https://github.com/AwesomesauceLabs/piglet#paid-support-credit-for-former-piglet-customers) for the amount of your original purchase. For most people, the credit works out to about an hour of paid support time.

@@ -4,8 +4,6 @@
 
 Hello! My name is Ben and I'm the one-man army behind Awesomesauce Labs. I started Awesomesauce in January 2019 because I was inspired by the potential of VR headsets (e.g. Oculus Rift, HTC Vive) to enable new approaches to gaming, art, and design. My goal is to build tools that amplify the creative power of indie artists and programmers like myself.
 
-You can send me a message on my [Contact Page](contact.html) or email me at `awesomesaucelabs` (at gmail).
-
 # Projects
 
 ## Piglet: glTF Importer for Unity
