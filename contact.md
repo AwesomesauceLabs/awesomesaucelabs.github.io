@@ -2,6 +2,8 @@
 
 # Contact
 
-If you have a question about [Piglet](https://assetstore.unity.com/packages/tools/utilities/piglet-gltf-importer-173425), you might find an answer on the [Piglet issue tracker](https://github.com/AwesomesauceLabs/piglet/issues). Anyone can post a new issue on the issue tracker, but please note that I give priority to [Paid Support](https://github.com/AwesomesauceLabs/piglet?tab=readme-ov-file#paid-support) users, and **I provide no guarantees about responding non-paid support requests**.
+I no longer offer free support for Piglet.
 
-**Note**: If you bought Piglet on the Asset Store before it was free, you can get a [Paid Support credit](https://github.com/AwesomesauceLabs/piglet#paid-support-credit-for-former-piglet-customers) for the amount of your original purchase. For most people, the credit works out to about an hour of paid support time.
+Moving forward, I only offer [paid support](https://github.com/AwesomesauceLabs/piglet?tab=readme-ov-file#paid-support) for Piglet, at a rate of **0.50 USD/minute (30.00 USD/hour)**. Paid support customers may discuss their issues with me on the [GitHub issue tracker](https://github.com/AwesomesauceLabs/piglet/issues) or privately through email. See [Paid Support](https://github.com/AwesomesauceLabs/piglet?tab=readme-ov-file#paid-support) for details.
+
+**Note**: If you purchased Piglet in the past, before it was free, you can get a [paid support credit](https://github.com/AwesomesauceLabs/piglet?tab=readme-ov-file#paid-support-credit-for-former-piglet-customers) equal to the amount of your original purchase. It does not matter how long ago you bought Piglet.
